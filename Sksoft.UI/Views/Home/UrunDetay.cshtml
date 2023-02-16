@@ -1,0 +1,110 @@
+﻿@model Sksoft.Entity.Urunlerimiz
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="banner-area pt-130 pb-120 bg-7 overlay-2">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="banner-page text-center text-white text-uppercase">
+							<h1>Ürün Detaylar</h1>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="breadcrumb-area ptb-25 broder-bottom white-bg">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="breadcrumb-list text-center text-uppercase">
+							<ul>
+								<li><a href="@Url.Action("Index")">Anasayfa</a><span class="divider"> // </span></li>
+								<li class="active">Ürün Detayı</li>
+							</ul>							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<section class="portfolio-details ptb-100">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="portfolio-details-content white-bg">
+							<div class="portfolio-titel ptb-30 text-center text-uppercase">
+								<h4>Kurumsal Marka</h4>
+							</div>
+							<div class="col-12">
+                                    <img class="mb-50" src="@Model.Resim" alt="">
+                                </div>
+							<div class="project-area">
+								<div class="col-12 col-lg-10">
+                                    <p>@Model.Icerik</p>
+                                </div>
+								<div class="post-content text-center mb-50">
+                                       
+                                        <h2>@Model.Baslik</h2>
+                                    </div>
+										
+									</div>
+								</div>
+							</div>
+							<div class="project-develope">
+								<div class="develope-menu text-center text-uppercase pb-60">
+									  <ul>
+										<li class="active"><a data-toggle="tab" href="#home">PROJE FİKİRİ</a></li>
+										<li><a data-toggle="tab" href="#menu1">PROJE TASARIMI</a></li>
+										<li><a data-toggle="tab" href="#menu2">PROJE GELİŞTİRME</a></li>
+									  </ul>
+								</div>
+								<div class="tab-content">
+									<!-- Tab Single -->
+									<div id="home" class="tab-pane fade in active">
+										<div class="tab-single">
+											<div class="tab-dicrib">
+												<p>Müşteri memnuniyeti çok önemlidir, müşteri müşteri tarafından takip edilecektir.</p>
+												<p>Her zaman en iyisi olmak için çalışıyoruz.</p>
+											</div>
+											<div class="tab-single-photo">
+												<img src="~/Rosella/UI/images/portfolio-details/2.jpg" alt="">
+											</div>
+										</div>
+									</div>
+									<!-- Tab Single -->
+									<!-- Tab Single -->
+									<div id="menu1" class="tab-pane fade">
+										<div class="tab-single">
+											<div class="tab-dicrib">
+												<p>Müşteri memnuniyeti çok önemlidir, müşteri müşteri tarafından takip edilecektir.</p>
+												<p>Her zaman en iyisi olmak için çalışıyoruz. </p>
+											</div>
+											<div class="tab-single-photo">
+												<img src="~/Rosella/UI/images/portfolio-details/3.jpg" alt="">
+											</div>
+										</div>
+									</div>
+									<!-- Tab Single -->
+									<!-- Tab Single -->
+									<div id="menu2" class="tab-pane fade">
+										<div class="tab-single">
+											<div class="tab-dicrib">
+												<p>Müşteri memnuniyeti çok önemlidir, müşteri müşteri tarafından takip edilecektir.</p>
+												<p> Her zaman en iyisi olmak için çalışıyoruz. </p>
+											</div>
+											<div class="tab-single-photo">
+												<img src="~/Rosella/UI/images/portfolio-details/4.jpg" alt="">
+											</div>
+										</div>
+									</div>
+									<!-- Tab Single -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		

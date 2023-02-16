@@ -1,0 +1,28 @@
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.deps.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\refint\Sksoft.API.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.API\obj\Debug\net6.0\ref\Sksoft.API.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.deps.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.runtimeconfig.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\bin\Debug\net6.0\Sksoft.API.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.AssemblyInfo.cs
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\refint\Sksoft.API.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\Sksoft.API.genruntimeconfig.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.API\obj\Debug\net6.0\ref\Sksoft.API.dll

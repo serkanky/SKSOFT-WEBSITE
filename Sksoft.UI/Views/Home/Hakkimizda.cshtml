@@ -1,0 +1,74 @@
+﻿@model Sksoft.Entity.Hakkimizda
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="story-coreplex gray-bg ptb-100">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-6 col-sm-6">
+						<div class="video-area">
+							<div class="img">
+								<img src="@Model.Resim" alt="">
+								
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-sm-6">
+						<div class="story-content pt-15">
+							<div class="video-content two">
+								<h6>@Model.Baslik</h6>
+								<p>@Model.Icerik </p>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="successful-area bg-4 pt-115 pb-100 overlay">
+			<div class="container-fluid">
+				
+				<div class="successful-single">
+					<div class="sucs-icon">
+						<a href="#"><i class="zmdi zmdi-coffee"></i></a>
+					</div>
+					<div class="sucs-count text-uppercase text-white">
+						<h3><span class="counter">1250</span></h3>
+						<h3>Kahve Yudumladık</h3>
+					</div>
+				</div>
+				
+				<div class="successful-single">
+					<div class="sucs-icon">
+						<a href="#"><i class="zmdi zmdi-male-female"></i></a>
+					</div>
+					<div class="sucs-count text-uppercase text-white">
+						<h3><span class="counter">650</span></h3>
+						<h3>Mutlu Müşterimiz Var</h3>
+					</div>
+				</div>
+				
+				<div class="successful-single hidden-sm">
+					<div class="sucs-icon">
+						<a href="#"><i class="zmdi zmdi-check-all"></i></a>
+					</div>
+					<div class="sucs-count text-uppercase text-white">
+						<h3><span class="counter">350</span></h3>
+						<h3>Proje Tamamladık</h3>
+					</div>
+				</div>
+				
+				<div class="successful-single">
+					<div class="sucs-icon">
+						<a href="#"><i class="zmdi zmdi-mood"></i></a>
+					</div>
+					<div class="sucs-count text-uppercase text-white">
+						<h3><span class="counter">5</span></h3>
+						<h3>Ödül Aldık</h3>
+					</div>
+				</div>
+			</div>
+		</section>

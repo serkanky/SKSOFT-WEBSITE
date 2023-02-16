@@ -1,0 +1,32 @@
+﻿@model List<Sksoft.Entity.Urunlerimiz>
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<div class="row">
+    @foreach (var item in Model)
+{
+    <div class="col-md-4 col-sm-6 col-xs-12 res-pb-xs-30">
+						<div class="single-blog">
+							<div class="blog-img">
+								<a href="@Url.Action("UrunDetay","Home" ,new {id = item.ID})">
+									<img src="@item.Resim" alt="">
+								</a>
+							</div>
+							<div class="blog-content">
+								<h6><a href="@Url.Action("UrunDetay","Home" ,new {id = item.ID})">@item.Baslik</a></h6>
+								<div class="post-info">
+									<span class="post-date">
+										<a href="@Url.Action("UrunDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-time"></i>Jun 25, 2016 </a>
+									</span>
+									<div class="favorite-comment pull-right">
+										<div class="favorite">
+											<a href="@Url.Action("UrunDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-favorite-outline"></i>( 500 )</a>
+										</div>
+										<a href="@Url.Action("UrunDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-comments"></i>( 100 )</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+}
+</div>

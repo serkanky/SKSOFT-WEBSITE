@@ -1,0 +1,153 @@
+﻿@model Sksoft.Entity.BaseEntity
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+	<!doctype html>
+<html class="no-js" lang="tr">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <title>SERKAN KAYA YAZILIM</title>
+    <meta name="description" content="SKSoft, Sizlerin İhtiyaç Duyduğu Hizmetleri Sorunsuz, Hızlı ve Kusursuz Şekilde Sunmak Adına Kurulmuş Bir Şirkettir.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <link rel="apple-touch-icon" href="~/Rosella/UI/images/logo/favicon.png">
+	<link rel="shortcut icon" type="image/x-icon" href="~/Rosella/UI/images/logo/favicon.png">    
+    <link rel="stylesheet" href="~/Rosella/UI/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/core.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/shortcode/shortcodes.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/nivo-slider.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/magnific-popup.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/venobox.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/plugins/owl.carousel.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/plugins/meanmenu.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/responsive.css">
+    <link rel="stylesheet" href="~/Rosella/UI/css/custom.css">
+	<link href="#" data-style="styles" rel="stylesheet">
+    <script src="~/Rosella/UI/js/vendor/modernizr-2.8.3.min.js"></script>
+</head>
+    <body>
+    <!--[if lt IE 8]>
+        <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->  
+
+    <div class="wrapper gray-bg">
+        <header class="header-area header-wrapper">
+			<div class="header-top-area">
+			   <div class="container">
+				 
+					
+			   </div>
+			</div>
+			
+        </header> 
+		
+         @foreach (var item in ViewBag.SliderListesi)
+            {
+
+                <div class="single-welcome-slide">
+                <!-- Background Curve -->
+                <div class="background-curve">
+                    <img src="~/Rosella/UI/img/core-img/curve-1.png" alt="">
+                </div>
+
+                <!-- Welcome Content -->
+                <div class="welcome-content h-100">
+                    <div class="container h-100">
+                        <!--Slider Başlangıcı-->
+                        
+                            <div class="row h-100 align-items-center">
+                                <!-- Welcome Text -->
+                                <div class="col-12 col-md-6">
+                                    <div class="welcome-text">
+                                        <h2 data-animation="fadeInUp" data-delay="100ms">@item.Baslik</h2>
+                                        <h5 data-animation="fadeInUp" data-delay="400ms">@item.Icerik</h5>
+                                        
+                                    </div>
+                                </div>
+                                <!-- Welcome Thumbnail -->
+                                <div class="col-12 col-md-6">
+                                    <div class="welcome-thumbnail">
+                                        <img src="@item.Resim" width="350" alt="" data-animation="slideInRight" data-delay="400ms">
+                                    </div>
+                                </div>
+                            </div>
+                        
+                        
+                        <!--Slider Bitişi-->
+                    </div>
+                </div>
+            </div>
+            }
+		
+        
+        <section class="about-area pt-100">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-12">
+						<div class="section-title text-center">
+							
+							
+						</div>
+					</div>
+				</div>
+				
+				<hr>
+			</div>
+        </section>
+		
+		
+		<br>
+		
+
+		
+    </div>
+    <script src="~/Rosella/UI/js/vendor/jquery-1.12.4.min.js"></script>
+    <script src="~/Rosella/UI/js/bootstrap.min.js"></script>
+    <script src="~/Rosella/UI/js/plugins.js"></script>
+    <script src="~/Rosella/UI/js/jquery.nivo.slider.pack.js"></script>
+    <script src="~/Rosella/UI/js/jquery.magnific-popup.min.js"></script>
+    <script src="~/Rosella/UI/js/isotope.pkgd.min.js"></script>
+    <script src="~/Rosella/UI/js/venobox.min.js"></script>
+	<script src="~/Rosella/UI/js/ajax-mail.js"></script>
+	<script src="https://maps.googleapis.com/maps/api/js"></script>
+	<script>
+		function initialize() {
+		  var mapOptions = {
+			zoom: 16,
+			scrollwheel: false,
+			center: new google.maps.LatLng(34.073781, -84.302295)
+		  };
+
+		  var map = new google.maps.Map(document.getElementById('googleMap'),
+			  mapOptions);
+
+
+		  var marker = new google.maps.Marker({
+			position: map.getCenter(),
+			animation:google.maps.Animation.BOUNCE,
+			icon: '~/Rosella/UI/images/icon/map-icon.png',
+			map: map
+		  });
+
+		}
+
+		google.maps.event.addDomListener(window, 'load', initialize);
+
+
+	</script>
+	
+    <script src="~/Rosella/UI/js/owl.carousel.min.js"></script>
+    <script src="~/Rosella/UI/js/jquery.meanmenu.js"></script>
+    <script src="~/Rosella/UI/js/imagesloaded.pkgd.min.js"></script>
+    <script src="~/Rosella/UI/js/jquery.counterup.min.js"></script>
+    <script src="~/Rosella/UI/js/jquery.waypoints.min.js"></script>
+    <script src="~/Rosella/UI/js/main.js"></script>
+
+</body>
+
+</html>

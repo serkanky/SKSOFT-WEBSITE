@@ -1,0 +1,38 @@
+﻿@model Sksoft.Entity.Hakkimizda
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@if (ViewBag.Durum != null)
+{
+    if (ViewBag.Durum == "1")
+    {
+        <div class="row">
+            <span style="background-color:blue;color:white;padding:10px;border-radius: 10px;width: 100%;float: left;margin-bottom: 10px;text-align: center;font-size: 18px;">Hakkımızda Güncellendi</span>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+                <span style="background-color: indianred;color:white;padding:10px;border-radius: 10px;width: 100%;float: left;margin-bottom: 10px;text-align: center;font-size: 18px;">Bir Hata Oluştu</span>
+        </div>
+    }
+
+}
+@using(Html.BeginForm()){
+    <div class="row">
+        <div class="col-md-2">Hakkımızda Resmi</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Resim, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Hakkımızda Başlığı</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Baslik, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Hakkımızda İçeriği</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Icerik, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-12"><input type="submit" value="Düzenle" class="btn btn-success" /></div>
+    </div>
+}

@@ -1,0 +1,28 @@
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.deps.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\refint\Sksoft.Entity.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Entity\obj\Debug\net6.0\ref\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.deps.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.runtimeconfig.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\bin\Debug\net6.0\Sksoft.Entity.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.AssemblyInfo.cs
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\refint\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\Sksoft.Entity.genruntimeconfig.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Entity\obj\Debug\net6.0\ref\Sksoft.Entity.dll

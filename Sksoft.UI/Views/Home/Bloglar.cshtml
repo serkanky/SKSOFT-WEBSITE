@@ -1,0 +1,52 @@
+﻿@model List< Sksoft.Entity.Blog>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+	<div class="row">
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 col-sm-6">
+						<div class="single-blog style-two white-bg broder mb-30">
+							<h6><a href="#">@item.Baslik</a></h6>
+							<div class="blog-img">
+								<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})"><img src="@item.Resim" alt=""></a>
+							</div>
+							<div class="blog-content">
+								<div class="post-info">
+									<span class="post-date mr-15">
+										<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-account"></i>Serkan KAYA </a>
+									</span>
+									<span class="post-date mr-15">
+										<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-favorite-outline"></i>( 500 )</a>
+									</span>
+									<span class="post-date mr-15">
+										<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-comments"></i>( 100 )</a>
+									</span>
+									<span class="post-date">
+										<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})"><i class="zmdi zmdi-share"></i>( 100 )</a>
+									</span>
+									<div class="post-content">
+										
+										<p> <a href="@item.Icerik"></a> DENEME </p>
+									</div>
+									<span class="post-date">
+										<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})"><i class="@item.Tarih"></i>Ağustos 26 2022 </a>
+									</span>
+									<span class="post-btn pull-right">
+										<a href="@Url.Action("BlogDetay","Home" ,new {id = item.ID})">Devamını Oku<i class="zmdi zmdi-arrow-right"></i></a>
+									</span>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+			
+				
+    }
+	</div>
+
+						

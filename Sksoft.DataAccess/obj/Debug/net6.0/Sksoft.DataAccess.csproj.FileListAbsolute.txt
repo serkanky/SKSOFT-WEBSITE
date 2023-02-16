@@ -1,0 +1,34 @@
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.deps.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.Entity.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.Entity.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\refint\Sksoft.DataAccess.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\ref\Sksoft.DataAccess.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.AssemblyInfo.cs
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\refint\Sksoft.DataAccess.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.deps.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.runtimeconfig.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.DataAccess.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\bin\Debug\net6.0\Sksoft.Entity.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.csproj.CopyComplete
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\Sksoft.DataAccess.genruntimeconfig.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.DataAccess\obj\Debug\net6.0\ref\Sksoft.DataAccess.dll

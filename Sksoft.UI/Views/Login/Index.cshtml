@@ -1,0 +1,83 @@
+﻿@model Sksoft.Entity.Kullanici
+@{
+    Layout = null;
+}
+
+<html lang="tr"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>YÖNETİM PANELİ</title>
+
+    <!-- Bootstrap -->
+    <link href="~/Rosella/Admin/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="~/Rosella/Admin/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="~/Rosella/Admin/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="~/Rosella/Admin/vendors/animate.css/animate.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="~/Rosella/Admin/build/css/custom.min.css" rel="stylesheet">
+  </head>
+  
+  <body class="login">
+    <div>
+      <a class="hiddenanchor" id="signup"></a>
+      <a class="hiddenanchor" id="signin"></a>
+      
+      <div class="login_wrapper">
+           
+        <div class="animate form login_form">
+           
+          <section class="login_content">
+            
+              <h1>GİRİŞ YAPIN</h1>
+               @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="form-group">
+                        <div class="form-label-group">
+                            <label required for="ad">Kullanıcı Adı</label>
+                            @Html.TextBoxFor(m => m.ad, new { @class = "form-control", @required="required", placeholder = "Kullanıcı Adını Giriniz", autofocus = "autofocus" })
+          
+                            @Html.ValidationMessageFor(m => m.ad)
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="form-label-group">
+                            <label for="sifre">Parola</label>
+                            @Html.PasswordFor(m => m.sifre, new { @class = "form-control",@required="required", placeholder = "Parola Giriniz" })
+                           
+                            @Html.ValidationMessageFor(m => m.sifre)
+                            
+                        </div>
+                    </div>
+                   <div class="btn btn-outline-primary"><input type="submit" class="btn btn-outline-primary" /></div>
+                    
+
+                }
+            
+                @if (ViewBag.Hata!=null)
+                {
+                    <div class="alert alert-danger mt-4">
+                        @ViewBag.Hata
+                    </div>
+                }
+                <div>
+                  <h1><i class="fa fa-slack"></i> Yönetim Paneline Hoşgeldiniz.</h1>
+                  <p>©2022 Tüm Hakları Saklıdır.</p>
+                </div>
+              </div>
+            
+          </section>
+        </div>
+      </div>
+    </div>
+  
+
+</body></html>

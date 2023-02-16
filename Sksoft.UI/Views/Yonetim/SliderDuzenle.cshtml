@@ -1,0 +1,24 @@
+﻿@model Sksoft.Entity.Slider
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<span style="background-color:indianred;color:white;padding:10px">@ViewBag.Durum</span>
+
+@using(Html.BeginForm()){
+    <div class="row">
+        <div class="col-md-2">Slider Başlığı</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Baslik, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Slider İçeriği</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Icerik, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Slider Resmi</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Resim, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-12"><input type="submit" value="Düzenle" class="btn btn-success" /></div>
+    </div>
+}

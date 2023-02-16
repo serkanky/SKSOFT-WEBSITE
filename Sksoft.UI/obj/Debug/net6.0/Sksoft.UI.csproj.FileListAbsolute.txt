@@ -1,0 +1,145 @@
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\appsettings.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.staticwebassets.runtime.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.exe
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.deps.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Antlr3.Runtime.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\ExpressionEvaluator.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\GSF.Core.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Business.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.DataAccess.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Entity.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Business.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.DataAccess.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Entity.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\scopedcss\bundle\Sksoft.UI.styles.css
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\scopedcss\projectbundle\Sksoft.UI.bundle.scp.css
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\refint\Sksoft.UI.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.UI\obj\Debug\net6.0\ref\Sksoft.UI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\appsettings.Development.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.staticwebassets.runtime.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.exe
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.deps.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.runtimeconfig.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.UI.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Antlr3.Runtime.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\ExpressionEvaluator.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\GSF.Core.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Humanizer.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Business.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.DataAccess.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Business.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.DataAccess.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\bin\Debug\net6.0\Sksoft.Entity.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.AssemblyInfo.cs
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.RazorAssemblyInfo.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.RazorAssemblyInfo.cs
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets\msbuild.Sksoft.UI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets\msbuild.build.Sksoft.UI.props
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Sksoft.UI.props
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Sksoft.UI.props
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\scopedcss\bundle\Sksoft.UI.styles.css
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\scopedcss\projectbundle\Sksoft.UI.bundle.scp.css
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.csproj.CopyComplete
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\refint\Sksoft.UI.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\Sksoft.UI.genruntimeconfig.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.UI\obj\Debug\net6.0\ref\Sksoft.UI.dll

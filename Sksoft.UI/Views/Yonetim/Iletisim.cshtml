@@ -1,0 +1,26 @@
+﻿@model List<Sksoft.Entity.Iletisim>
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<table class="table">
+    <tr>
+        <td>#</td>
+        <td>Ad Soyad</td>
+        <td>Telefon</td>
+        <td>Mesaj</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td>@item.AdiSoyadi</td>
+            <td>@item.Telefon</td>
+            <td>@item.Mesaj</td>
+                <td>
+                <a href="@Url.Action("IletisimDetay", "Yonetim", new {id = item.ID})" class="btn btn-info">Detay</a>
+               
+            </td>
+        </tr>
+    }
+</table>
+

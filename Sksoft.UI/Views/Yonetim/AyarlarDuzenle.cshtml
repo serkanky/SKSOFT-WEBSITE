@@ -1,0 +1,38 @@
+﻿@model Sksoft.Entity.Ayarlar
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@if (ViewBag.Durum != null)
+{
+    <span style="background-color:indianred;color:white;padding:10px">@ViewBag.Durum</span>
+
+}
+@using (Html.BeginForm())
+{
+    <div class="row">
+        <div class="col-md-2">Site Adı</div>
+        <div class="col-md-10">@Html.TextBoxFor(x => x.SiteAdi, new { @class = "form-control" })</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Site Açıklama</div>
+        <div class="col-md-10">@Html.TextBoxFor(x => x.Aciklama, new { @class = "form-control" })</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Adres</div>
+        <div class="col-md-10">@Html.TextBoxFor(x => x.Adres, new { @class = "form-control" })</div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-2">Telefon</div>
+        <div class="col-md-10">@Html.TextBoxFor(x => x.Telefon, new { @class = "form-control" })</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Mail</div>
+        <div class="col-md-10">@Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })</div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-12"><input type="submit" value="Düzenle" class="btn btn-primary" /></div>
+    </div>
+}

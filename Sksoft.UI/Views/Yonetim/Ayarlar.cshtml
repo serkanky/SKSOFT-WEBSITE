@@ -1,0 +1,63 @@
+﻿@model Sksoft.Entity.Ayarlar
+
+@{
+    Layout = "~/views/Shared/_LayoutAdmin.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">@ViewBag.Durum</div>
+</div>
+@using (Html.BeginForm())
+{
+
+    <div class="row">
+        <div class="col-md-4">Sayfa Adı</div>
+        <div class="col-md-8">
+
+            @Html.TextBoxFor(x => x.SiteAdi, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">Site Açıklama</div>
+        <div class="col-md-8">
+
+            @Html.TextBoxFor(x => x.Aciklama, new { @class = "form-control" })
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-md-4">Adres</div>
+        <div class="col-md-8">
+
+            @Html.TextBoxFor(x => x.Adres, new { @class = "form-control" })
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">Telefon</div>
+        <div class="col-md-8">
+
+            @Html.TextBoxFor(x => x.Telefon, new { @class = "form-control" })
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-md-4">Mail</div>
+        <div class="col-md-8">
+
+            @Html.TextBoxFor(x => x.Mail, new { @class = "form-control" })
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-md-12">
+            <input type="submit" style="background-color:#2A3F54;color:white;width:100%; text-align: center;" value="Ekle" class="form-control" />
+        </div>
+    </div>
+}
+
+
+
+<input type="file" accept="image/*">

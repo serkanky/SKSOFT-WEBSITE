@@ -1,0 +1,35 @@
+﻿@model List<Sksoft.Entity.Slider>
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+@if(TempData["Durum"] != null)
+{
+    <div class="row">
+        <span style="background-color: #ed4949;color:white;padding:10px;border-radius: 10px;width: 100%;float: left;margin-bottom: 10px;text-align: center;font-size: 18px;">@TempData["Durum"]</span>
+    </div>
+}
+<div class="row">
+    <a href="@Url.Action("SliderEkle","Yonetim")" class="btn btn-primary">Yeni Slider</a>
+</div>
+<table class="table">
+    <tr>
+        <td>#</td>
+        <td>Resim</td>
+        <td>Slider Başlığı</td>
+        <td>Slider İçeriği</td>
+        <td>İşlemler</td>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.ID</td>
+            <td><img src="@item.Resim" width="140" /></td>
+            <td>@item.Baslik</td>
+            <td>@item.Icerik</td>
+            <td>
+                <a href="@Url.Action("SliderDuzenle","Yonetim", new {id = item.ID })" class="btn btn-primary"><i class="fa fa-pencil-square-o"></i></a>
+                <a href="@Url.Action("SliderSil","Yonetim", new {id = item.ID })" class="btn btn-danger"><i class="fa fa-trash-o"></i></a>
+            </td>
+        </tr>
+    }
+</table>

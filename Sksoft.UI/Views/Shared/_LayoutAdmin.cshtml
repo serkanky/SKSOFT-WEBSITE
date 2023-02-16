@@ -1,0 +1,196 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Yönetim Paneli | </title>
+
+    <!-- Bootstrap -->
+    <link href="~/Rosella/Admin/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="~/Rosella/Admin/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="~/Rosella/Admin/vendors/nprogress/nprogress.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="~/Rosella/Admin/build/css/custom.min.css" rel="stylesheet">
+  </head>
+
+  <body class="nav-md">
+    <div class="container body">
+      <div class="main_container">
+        <div class="col-md-3 left_col">
+          <div class="left_col scroll-view">
+            <div class="navbar nav_title" style="border: 0;">
+              <a href="@Url.Action("Index" , "Yonetim")" class="site_title"><i class="fa fa-drupal"></i> <span>Yönetim</span></a>
+            </div>
+
+            <div class="clearfix"></div>
+
+            <!-- menu profile quick info -->
+            <div class="profile clearfix">
+              <div class="profile_pic">
+                <img src="~/Rosella/Admin/build/images/anonymous-icon-16.jpg" alt="..." class="img-circle profile_img">
+              </div>
+              <div class="profile_info">
+                <span>Hoşgeldiniz,</span>
+                <h2>SERKAN KAYA</h2>
+                <a b-ungwgpyl7q="" class="nav-link" target="_blank" href="@Url.Action("Index","Home")">
+										<h5 b-ungwgpyl7q="" style="color:Aqua; class="d-inline-block px-4 py-2 border">Web Siteye Git</h5>
+									    </a>
+										</li>
+              </div>
+              <div class="clearfix"></div>
+            </div>
+            <!-- /menu profile quick info -->
+
+            <br />
+
+            <!-- sidebar menu -->
+            <div id="sidebar-menu" class="main_menu_side hidden-print main_menu">
+              <div class="menu_section">
+                <h3>MENÜ</h3>
+                <ul class="nav side-menu">
+                  
+                  <li>
+                      <a href="@Url.Action("SliderListesi","Yonetim")">
+                          <i class="fa fa-diamond"></i> Slider                          
+                      </a>
+                  </li>
+                  <li>
+                      <a href="@Url.Action("Bloglar","Yonetim")">
+                          <i class="fa fa-diamond"></i> Blog                  
+                      </a>
+                  </li>
+                  <li>
+                      <a href="@Url.Action("HakkimizdaListesi","Yonetim")">
+                          <i class="fa fa-diamond"></i> Hakkımızda                       
+                      </a>
+                  </li>
+                  
+                  <li>
+                      <a href="@Url.Action("UrunListesi","Yonetim")">
+                          <i class="fa fa-gift"></i> Ürünlerimiz              
+                      </a>
+                  </li>
+                    <li>
+                      <a href="@Url.Action("Iletisim","Yonetim")">
+                          <i class="fa fa-mobile"></i> İletişim Talepleri              
+                      </a>
+                      <a href="@Url.Action("Mail","Yonetim")">
+                          <i class="fa fa-envelope"></i> Mail Gönderme              
+                      </a>
+                      <a href="@Url.Action("SiteBilgileri","Yonetim")">
+                          <i class="fa fa-gear"></i> Ayarlar              
+                      </a>
+                  </li>
+                  <li>
+                  </li>
+                </ul>
+              </div>
+              
+
+            </div>
+            <!-- /sidebar menu -->
+
+            <!-- /menu footer buttons -->
+            
+            <!-- /menu footer buttons -->
+          </div>
+        </div>
+
+        <!-- top navigation -->
+        <div class="top_nav">
+          <div class="nav_menu">
+            <nav>
+              <div class="nav toggle">
+                <a id="menu_toggle"><i class="fa fa-bars"></i></a>
+              </div>
+
+              <ul class="nav navbar-nav navbar-right">
+                <li class="">
+                  <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                    <img src="~/Rosella/Admin/build/images/anonymous-icon-16.jpg" alt="">Serkan KAYA
+                    <span class=" fa fa-angle-down"></span>
+                  </a>
+                  <ul class="dropdown-menu dropdown-usermenu pull-right">
+                    <li><a href="#"> Profil</a></li>
+                    <li>
+                      
+                    </li>
+                    
+                    <li><a href="@Url.Action("Index", "Login");><i class="fa fa-sign-out pull-right"></i> Log Out</a></li>
+                  </ul>
+                </li>
+
+                <li role="presentation" class="dropdown">
+                  <a href="javascript:;" class="dropdown-toggle info-number" data-toggle="dropdown" aria-expanded="false">
+                    <i class="fa fa-envelope-o"></i>
+                    <span class="badge bg-green">6</span>
+                  </a>
+                  <ul id="menu1" class="dropdown-menu list-unstyled msg_list" role="menu">
+                    <li>
+                      <a>
+                        <span class="image"><img src="images/img.jpg" alt="Profile Image" /></span>
+                        <span>
+                          <span>SERKAN KAYA</span>
+                          <span class="time">Uzun Zaman Önce</span>
+                        </span>
+                        <span class="message">
+                          BACKEND DEVELOPER SERKAN KAYA
+                        </span>
+                      </a>
+                    </li>
+                    
+                    <li>
+                      <div class="text-center">
+                        <a>
+                          <strong>Tüm Bildirimleri Gör</strong>
+                          <i class="fa fa-angle-right"></i>
+                        </a>
+                      </div>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </nav>
+          </div>
+        </div>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          @RenderBody()
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        <footer>
+          <div class="pull-right">
+            Gentelella - Bootstrap Admin Template by <a href="https://colorlib.com">Colorlib</a>
+          </div>
+          <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+      </div>
+    </div>
+
+    <!-- jQuery -->
+    <script src="~/Rosella/Admin/vendors/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap -->
+    <script src="~/Rosella/Admin/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- FastClick -->
+    <script src="~/Rosella/Admin/vendors/fastclick/lib/fastclick.js"></script>
+    <!-- NProgress -->
+    <script src="~/Rosella/Admin/vendors/nprogress/nprogress.js"></script>
+    <!-- Custom Theme Scripts -->
+    <script src="~/Rosella/Admin/build/js/custom.min.js"></script>
+  </body>
+</html>

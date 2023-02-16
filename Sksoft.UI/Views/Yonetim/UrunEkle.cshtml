@@ -1,0 +1,23 @@
+﻿@model Sksoft.Entity.Urunlerimiz
+
+@{
+    Layout = "~/Views/Shared/_LayoutAdmin.cshtml";
+}
+<span style="background-color:red;color:white;padding:10px">@ViewBag.Durum</span>
+@using(Html.BeginForm()){
+    <div class="row">
+        <div class="col-md-2">Ürün Adı</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Baslik, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Ürün İçeriği</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Icerik, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-2">Ürün Resmi</div>
+        <div class="col-md-10">@Html.TextBoxFor(x=>x.Resim, new{@class="form-control"})</div>
+    </div>
+    <div class="row">
+        <div class="col-md-12"><input type="submit" value="Ekle" class="btn btn-success" /></div>
+    </div>
+}

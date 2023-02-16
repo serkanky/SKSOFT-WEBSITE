@@ -1,0 +1,103 @@
+﻿@model Sksoft.Entity.Blog
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="banner-area pt-130 pb-120 bg-7 overlay-2">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="banner-page text-center text-white text-uppercase">
+                    <h1>Blog Detayı</h1>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="breadcrumb-area ptb-25 broder-bottom white-bg">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="breadcrumb-list text-center text-uppercase">
+                    <ul>
+                        <li><a href="@Url.Action("Bloglar")">home</a><span class="divider"> // </span></li>
+                        <li class="active">Blog Detayı</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<section class="blog-details-area ptb-100">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="blog-details-content">
+                    <!-- Post Details Text -->
+                    <div class="post-details-text">
+
+                        <div class="row justify-content-center">
+                            <div class="col-12 col-lg-10">
+                                <div class="post-content text-center mb-50">
+                                    <a href="#" class="post-date"><span>@Model.Tarih.Day</span> @Model.Tarih.ToString("MMMM"), @Model.Tarih.Year</a>
+                                    <h2>@Model.Baslik</h2>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <img class="mb-50" src="@Model.Resim" alt="">
+                            </div>
+                            <div class="col-12 col-lg-10">
+                                <p>@Model.Icerik</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Discribe Text Post -->
+    <!-- Discribe Text Post -->
+    <!-- Blog Social Start -->
+    <div class="blog-social">
+
+        <ul class="hidden-sm hidden-xs">
+            <li>Paylaş :</li>
+            <li><a href="#"><i class="zmdi zmdi-facebook"></i></a></li>
+            <li><a href="#"><i class="zmdi zmdi-twitter"></i></a></li>
+            <li><a href="#"><i class="zmdi zmdi-dribbble"></i></a></li>
+            <li><a href="#"><i class="zmdi zmdi-pinterest"></i></a></li>
+        </ul>
+    </div>
+    <!-- Blog Social End -->
+    <!-- Comment Box Author Start -->
+    <div class="comments-box two">
+        <div class="section-title text-left">
+            <h4>(0) Yorum</h4>
+        </div>
+        <!-- Comment Single Box Start -->
+        <!-- Comment Box Author End -->
+        <!-- Leave Comment Form Start -->
+        <div class="comment-form comments-box three mt-35">
+            <div class="section-title text-left">
+                <h4>Yorum Yap</h4>
+            </div>
+            <form id="contact-form" class="form-group" method="POST" action="mail.php">
+                <div class="form-single">
+                    <input name="name" required="" id="name" placeholder="Adınız" class="form-control" type="text">
+                </div>
+                <div class="form-single">
+                    <input name="email" required="" id="email" placeholder="Email" class="form-control" type="text">
+                </div>
+                <div class="form-textarea">
+                    <textarea name="message" required="" id="message" placeholder="Mesajınızı Yazın" rows="6" class="form-control"></textarea>
+                </div>
+                <div class="form-button">
+                    <button class="contact-submit" type="submit">Yorum Yap</button>
+                    <p class="form-messege"></p>
+                </div>
+            </form>
+        </div>
+        <!-- Leave Comment Form End -->
+</section>

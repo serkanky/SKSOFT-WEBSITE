@@ -1,0 +1,38 @@
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.deps.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\refint\Sksoft.Business.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.genruntimeconfig.cache
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\ref\Sksoft.Business.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.DataAccess.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Entity.dll
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.DataAccess.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Entity.pdb
+C:\Users\LENOVO\Desktop\Visual\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.csproj.CopyComplete
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.deps.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.runtimeconfig.json
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Business.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.DataAccess.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Entity.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.DataAccess.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\bin\Debug\net6.0\Sksoft.Entity.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.AssemblyInfo.cs
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.csproj.CopyComplete
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\refint\Sksoft.Business.dll
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.pdb
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\Sksoft.Business.genruntimeconfig.cache
+D:\Visual Studio Projects\SERKAN KAYA 1\SKSoft\Sksoft.Business\obj\Debug\net6.0\ref\Sksoft.Business.dll

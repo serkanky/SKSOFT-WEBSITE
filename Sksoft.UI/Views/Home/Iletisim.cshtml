@@ -1,0 +1,80 @@
+﻿@model Sksoft.Entity.Iletisim
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<section class="map-area-main two">
+
+			<div class="container-fluid">
+				<div class="map-area">
+					<iframe style="width: 100%;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3670.6828384985156!2d38.77412520881028!3d37.22135931604386!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x901180b6563f50ee!2zTWHFn3VrIDQ1MCBUT0vEsCBLb251dGxhcsSx!5e0!3m2!1str!2str!4v1587209805287!5m2!1str!2str" width="800" height="600" frameborder="0" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+				</div>
+			</div>
+			<div class="container">
+					 @if (TempData["Mesaj"] != null)
+                        {
+                            <div class="col-md-12">
+                               <div class="alert bg-success">
+                                   <span>@TempData["Mesaj"].ToString()</span>
+                               </div>
+                            </div>
+                        }
+				<div class="row pb-100">
+					
+			@using (Html.BeginForm())
+			{
+				<div class="col-md-6">
+						<div class="help-contact-area white-bg shadow ptb-100">
+							<div class="section-title text-center">
+								<h4>Mesajınızı Yazın Sizi Arayalım!</h4>
+							</div>
+								<form id="contact-form" class="form-group" method="POST" action="">
+								<div class="form-single">
+									@Html.TextBoxFor(x=>x.AdiSoyadi, new{@placeholder="Adınız Soyadınız;", required="", @class="form-control"})
+									
+								</div>
+								<div class="form-single">
+									@Html.TextBoxFor(x=>x.Telefon, new{@placeholder="Telefon Numaranız;", required="", @class="form-control"})
+								</div>
+								<div class="form-textarea",>
+								    @Html.TextBoxFor(x=>x.Mesaj, new{@placeholder="Mesajınız;", required="", @class="form-control"})
+								</div>
+								<div class="contact-button">
+									<button class="contact-submit"  type="submit">Gönder</button>
+									<p class="form-messege"></p>
+								</div>
+								</form>
+						</div>
+					</div>
+					
+			}
+			<div class="col-md-6">
+						<div class="cntct-right-adrs pl-80 pt-90">
+							<div class="section-title text-left">
+								<h4>İletişim</h4>
+							</div>
+							<div class="adrs-details mt-60">
+								<ul>
+									<li>
+										<a href="#"><i class="zmdi zmdi-pin"></i></a>
+										<p>Şanlıurfa/Haliliye</p>
+									</li>
+									<li>
+										<a href="#"><i class="zmdi zmdi-email"></i></a>
+										<p>mskdeveloper@hotmail.com</p>
+									</li>
+									<li>
+										<a href="#"><i class="zmdi zmdi-phone"></i></a>
+										<p>0531 635 49 63</p>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+
+				</div>
+			</div>
+			
+		</section>
