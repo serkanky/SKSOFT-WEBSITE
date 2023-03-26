@@ -1,3 +1,3 @@
 # SKSOFT-WEBSITE
-Kurumsal Mimari Kullanılmıştır.
-5 Katmandan Oluşmaktadır.
+Kurumsal mimari kullanılarak hazırlanmış yazılım şirketi web site örneği. Asp .Net Core ile kodlanmıştır.
+
